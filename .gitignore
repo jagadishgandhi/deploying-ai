@@ -30,3 +30,6 @@ deploying-ai-env
 
 # Video files
 *.mp4
+
+# Archives
+*Archive*
