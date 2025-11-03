@@ -27,3 +27,6 @@ deploying-ai-env
 *.jsonl
 *.htm
 *.txt
+
+# Video files
+*.mp4
