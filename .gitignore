@@ -27,3 +27,8 @@ deploying-ai-env
 *.jsonl
 *.htm
 *.txt
+
+*.mp4
+
+09_MyTest/
+.archive/
