@@ -32,3 +32,4 @@ deploying-ai-env
 
 09_MyTest/
 .archive/
+chroma_db/
